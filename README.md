@@ -6,4 +6,7 @@ y procesamiento básico de archivos en formato JSON.
 - [Descargar presentación](EDCA_tutorialjson.pdf)
 
 ## Capturas 
+||||
+|----|----|----|
+|![img](screens/sc1.png)|![img](screens/sc2.png)|![img](screens/sc3.png)|
 
